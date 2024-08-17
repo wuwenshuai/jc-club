@@ -7,8 +7,8 @@ import java.io.Serializable;
 /**
  * 题目答案dto
  *
- * @author: ChickenWing
- * @date: 2023/10/5
+ * @author: wuwenshuai
+ * @date: 2024/07/5
  */
 @Data
 public class SubjectAnswerBO implements Serializable {

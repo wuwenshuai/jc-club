@@ -20,8 +20,8 @@ import java.util.List;
 /**
  * 刷题分类controller
  *
- * @author: ChickenWing
- * @date: 2023/10/1
+ * @author: wuwenshuai
+ * @date: 2024/07/1
  */
 @RestController
 @RequestMapping("/subject/category")

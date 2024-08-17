@@ -11,8 +11,8 @@ import org.springframework.context.annotation.ComponentScan;
 /**
  * 刷题微服务启动类
  *
- * @author: ChickenWing
- * @date: 2023/10/1
+ * @author: wuwenshuai
+ * @date: 2024/07/1
  */
 @SpringBootApplication
 @ComponentScan("com.jingdianjichi")

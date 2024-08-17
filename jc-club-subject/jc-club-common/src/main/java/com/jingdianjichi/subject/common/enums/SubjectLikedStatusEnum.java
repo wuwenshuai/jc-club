@@ -5,8 +5,8 @@ import lombok.Getter;
 /**
  * 题目点赞枚举
  *
- * @author: ChickenWing
- * @date: 2023/10/3
+ * @author: wuwenshuai
+ * @date: 2024/07/3
  */
 @Getter
 public enum SubjectLikedStatusEnum {
